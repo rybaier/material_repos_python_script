@@ -14,9 +14,9 @@ Before running the script complete the following
 - ? What is your preferred protocol for Git operations? SSH
 - ? Upload your SSH public key to your GitHub account? Skip
 - ? How would you like to authenticate GitHub CLI? Login with a web browser
-- ! First copy your one-time code: >Randomcodehere< 
+- ! First copy your one-time code: [randomkeyhere]
 - Press Enter to open git.generalassemb.ly in your browser... 
 - ✓ Authentication complete.
 - - gh config set -h git.generalassemb.ly git_protocol ssh
 - ✓ Configured git protocol
-- ✓ Logged in as <<username>>
+- ✓ Logged in as [username]
