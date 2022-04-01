@@ -1,11 +1,12 @@
-# python material script challenge from SaifAlushi aka 'Sushi'
-for some fun I took on a friends challenge to build a material script for our GA course materials similiar to the one he wrote with JS. For an added bit of fun and because I've been expermenting with it. I decided to also have the script run the github cli tool for cloning all the repos
+# python material script challenge from SaifAlushi1
+for some fun I took on a friends [challenge](https://github.com/saifalushi1/material-script) to build a material script for our GA course materials similiar to the one he wrote with JS. For an added bit of fun and because I've been expermenting with it. I decided to also have the script run the github cli tool for cloning all the repos
 
-Before running the script complete the following 
-## install gh cli
+## Before running the script complete the following 
+### clone the repo
+### install gh cli
   `brew install gh`
 
-## Attach gh cli to Git Enterprise Account
+### Attach gh cli to Git Enterprise Account
 `gh auth login`
 - follow the prompts 
 ##### You should see something similiar to the following after
