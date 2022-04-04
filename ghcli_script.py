@@ -19,3 +19,4 @@ for i in data['materials']:
 
 repos.close()
 
+print('Repos cloned')

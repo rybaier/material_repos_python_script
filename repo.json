@@ -237,6 +237,5 @@
         "gh repo clone git.generalassemb.ly/seir-1213/react-jwt-authentication",
         "gh repo clone git.generalassemb.ly/seir-1213/documentation-markdown",
         "gh repo clone git.generalassemb.ly/seir-1213/mern-lab-1"
-   
     ]
 }
