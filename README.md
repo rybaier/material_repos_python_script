@@ -21,3 +21,7 @@ for some fun I took on a friends [challenge](https://github.com/saifalushi1/mate
 - ` gh config set -h git.generalassemb.ly git_protocol ssh`
 - ` ✓ Configured git protocol`
 - ` ✓ Logged in as [username]`
+
+## Once the above is completed 
+cd into repo directory then run the following command in terminal to start the script
+`python3 ghcli_script.py`
